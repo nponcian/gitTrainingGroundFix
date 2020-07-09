@@ -1,6 +1,7 @@
 This is my first commit
 This is my second commit
 This is my third commit
+This is my fourth commit
 
 Some change 1
 Some change 2
